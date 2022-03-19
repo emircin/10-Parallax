@@ -9,6 +9,8 @@ Project aims to create parallax website.
 
 # Project
 
+https://emircin.github.io/Parallax/
+
 ## Project Skeleton 
 
 ```
